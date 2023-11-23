@@ -1,5 +1,6 @@
 # Soil classification model
 CNN model based on MobileNetV3: https://arxiv.org/abs/1905.02244
+
 Current approximate accuracy: 80%
 
 Model was trained on https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset
