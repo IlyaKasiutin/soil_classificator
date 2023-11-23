@@ -14,10 +14,13 @@ Example of input/output:
 ![](./readme_files/Copy%20of%202560px-A_red_soil_crop_field.JPG.jpg)
 ![](./readme_files/Copy%20of%202560px-A_red_soil_crop_field%20(labeled).JPG.jpg)
 
+Already done:
+- [X] 
 
 TODO:
 - [ ] add more relevant classes
 - [ ] make soil composition prediction (in %)
+- [ ] add good UI
 - [ ] process images in realtime
 - [ ] implement the functionality of a standalone mobile application
 
