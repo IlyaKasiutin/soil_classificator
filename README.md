@@ -11,8 +11,8 @@ This dataset contains 4 soil types:
 - Clay
 
 Example of input/output:
-![](../Soil_classificator_base/dist/images/Copy of 2560px-A_red_soil_crop_field.JPG.jpg)
-![](../Soil_classificator_base/dist/labeled_images/Copy of 2560px-A_red_soil_crop_field.JPG.jpg)
+![](./readme_files/Copy%20of%202560px-A_red_soil_crop_field.JPG.jpg)
+![](./readme_files/Copy%20of%202560px-A_red_soil_crop_field%20(labeled).JPG.jpg)
 
 
 TODO:
