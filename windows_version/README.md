@@ -1,7 +1,7 @@
 # How to make an executable from src
 Option №1:
 1. Install Pyinstaller following official manual: https://pyinstaller.org/en/stable/
-2. Type in windows terminal command:
+2. Type command in windows terminal:
 ```shell
 pyinstaller predictor.spec
 ```
