@@ -15,7 +15,10 @@ Example of input/output:
 ![](./readme_files/Copy%20of%202560px-A_red_soil_crop_field%20(labeled).JPG.jpg)
 
 Already done:
-- [X] 
+- [X] trained CNN model
+- [X] 4 classes for classification
+- [X] sufficient accuracy
+- [X] windows version
 
 TODO:
 - [ ] add more relevant classes
